@@ -38,7 +38,7 @@ False Positives (FP): 250-145 =105 → customers incorrectly predicted as churne
 
 
 False Negatives (FN):
-From recall: FN+TP=145/0.61=237
+From recall: FN+TP=145/0.61=237 → this is all actual churners
           ⇒ FN=237−145=92 → actual churners missed by the model.
 
 
