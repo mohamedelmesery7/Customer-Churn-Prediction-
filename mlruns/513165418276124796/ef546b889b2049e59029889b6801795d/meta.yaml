@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/513165418276124796/ef546b889b2049e59029889b6801795d/artifacts
+end_time: 1762091175156
+entry_point_name: ''
+experiment_id: '513165418276124796'
+lifecycle_stage: active
+run_id: ef546b889b2049e59029889b6801795d
+run_name: Test - Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091169924
+status: 3
+tags: []
+user_id: HP

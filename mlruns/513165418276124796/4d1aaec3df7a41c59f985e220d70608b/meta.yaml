@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/513165418276124796/4d1aaec3df7a41c59f985e220d70608b/artifacts
+end_time: 1762091181225
+entry_point_name: ''
+experiment_id: '513165418276124796'
+lifecycle_stage: active
+run_id: 4d1aaec3df7a41c59f985e220d70608b
+run_name: Test - Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091175175
+status: 3
+tags: []
+user_id: HP

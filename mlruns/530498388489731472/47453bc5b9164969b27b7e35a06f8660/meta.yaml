@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/47453bc5b9164969b27b7e35a06f8660/artifacts
+end_time: 1762091156640
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 47453bc5b9164969b27b7e35a06f8660
+run_name: Logistic Regression on SMOTE Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091156227
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/2d0fec5140284fef9a14fb1d45906c43/artifacts
+end_time: 1762091159725
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 2d0fec5140284fef9a14fb1d45906c43
+run_name: Random Forest on SMOTE Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091156992
+status: 3
+tags: []
+user_id: HP

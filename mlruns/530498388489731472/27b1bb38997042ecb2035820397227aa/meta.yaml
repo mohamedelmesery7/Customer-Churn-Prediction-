@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/27b1bb38997042ecb2035820397227aa/artifacts
+end_time: 1762091156975
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 27b1bb38997042ecb2035820397227aa
+run_name: Decision Tree on SMOTE Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091156655
+status: 3
+tags: []
+user_id: HP

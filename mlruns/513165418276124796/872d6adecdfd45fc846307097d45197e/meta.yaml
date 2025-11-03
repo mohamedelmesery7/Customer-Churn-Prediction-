@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/513165418276124796/872d6adecdfd45fc846307097d45197e/artifacts
+end_time: 1762091169924
+entry_point_name: ''
+experiment_id: '513165418276124796'
+lifecycle_stage: active
+run_id: 872d6adecdfd45fc846307097d45197e
+run_name: Test - Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091160672
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Churn%20Prj/mlruns/513165418276124796/models/m-467063fe44df4f58b475813e44e5521a/artifacts
+creation_timestamp: 1762091160923
+experiment_id: '513165418276124796'
+last_updated_timestamp: 1762091169906
+model_id: m-467063fe44df4f58b475813e44e5521a
+model_type: null
+name: model_Logistic_Regression
+source_run_id: 872d6adecdfd45fc846307097d45197e
+status: 2
+status_message: null

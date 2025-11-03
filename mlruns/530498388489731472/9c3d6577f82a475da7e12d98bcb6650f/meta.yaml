@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/9c3d6577f82a475da7e12d98bcb6650f/artifacts
+end_time: 1762090984199
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 9c3d6577f82a475da7e12d98bcb6650f
+run_name: Cross-Validation Experiment
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762090984129
+status: 4
+tags: []
+user_id: HP

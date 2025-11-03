@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/19ad6b4609f149f184199be0e8c51241/artifacts
+end_time: 1762091156207
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 19ad6b4609f149f184199be0e8c51241
+run_name: XGBoost on Original Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091155720
+status: 3
+tags: []
+user_id: HP

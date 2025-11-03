@@ -1,0 +1,65 @@
+Notes about the Data
+
+1- A considerable proportion of customers who churn have a credit score between 600 and 700, indicating that mid-range credit scores may be associated with higher churn risk.
+
+2- The highest churn rate is observed among customers aged 30 to 40, after which the rate declines progressively with age.
+
+3- A substantial share of churned customers have a zero account balance, followed by another notable group with high balances ranging between $100,000 and $150,000.
+
+4- Customers from Germany demonstrate the highest churn rate, approximately 32%, suggesting a potential regional factor influencing churn behavior.
+
+5- Female customers show a higher tendency to churn compared to males; however, the overall number of male customers exceeds that of females in the dataset.
+
+6-Customers holding 3 or 4 products exhibit an unusually high churn rate — with 100% of customers having 4 products recorded as churned. This finding is unusual but may be attributed to the very small percentage of customers in this category.
+
+
+Customer Retention Plan:
+
+Objective:
+Reduce customer churn by strategically engaging at-risk customer segments identified through data analysis.
+
+1. Focus on German Customers
+
+Actions:
+
+Implement a localized marketing campaign in Germany emphasizing loyalty rewards, personalized financial solutions, and the long-term value of our banking services.
+
+Establish a dedicated German-speaking customer support line to enhance service quality, address issues promptly, and build stronger customer relationships.
+
+
+2. Strengthen Engagement with Female Customers
+
+Actions:
+
+Develop tailored financial products and bundles designed to meet the needs and aspirations of female customers, such as investment workshops, savings plans, or family-oriented financial packages.
+
+Implement targeted communication strategies (via email, in-app notifications, and social media) that highlight relevant benefits, promote financial empowerment, and reinforce trust.
+
+
+3. Address Churn Among “Zero Balance” and “High Balance” Customers
+
+For Zero Balance Customers:
+
+Introduce no-fee or low-fee basic accounts and provide incentives such as bonus interest or cashback for first deposits or activating direct deposit options.
+
+For High Balance Customers ($100K–$150K):
+
+Assign dedicated personal banking advisors and offer premium-tier services, exclusive investment opportunities, and preferential interest rates to enhance perceived value and loyalty.
+
+
+4. Reassess Product Bundling Strategy
+
+Actions:
+
+Conduct an in-depth analysis to determine why customers with three or more products exhibit higher churn rates—potentially due to product overlap or service inefficiencies.
+
+Initiate proactive portfolio reviews for customers holding multiple products, ensuring alignment with their financial goals and simplifying their product mix when necessary.
+
+
+5. Engage the 30–40 Age Segment
+
+Actions:
+
+Launch digital-first financial solutions that align with the lifestyle and preferences of this tech-savvy demographic.
+
+Offer advanced mobile banking features, goal-based savings tools, and streamlined mortgage pre-approval processes to enhance convenience and strengthen engagement.

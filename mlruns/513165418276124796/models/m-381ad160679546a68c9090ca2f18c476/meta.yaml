@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Churn%20Prj/mlruns/513165418276124796/models/m-381ad160679546a68c9090ca2f18c476/artifacts
+creation_timestamp: 1762091176141
+experiment_id: '513165418276124796'
+last_updated_timestamp: 1762091181208
+model_id: m-381ad160679546a68c9090ca2f18c476
+model_type: null
+name: model_Random_Forest
+source_run_id: 4d1aaec3df7a41c59f985e220d70608b
+status: 2
+status_message: null

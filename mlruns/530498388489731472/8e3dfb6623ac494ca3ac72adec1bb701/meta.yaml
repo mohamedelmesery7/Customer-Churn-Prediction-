@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/8e3dfb6623ac494ca3ac72adec1bb701/artifacts
+end_time: 1762091153707
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 8e3dfb6623ac494ca3ac72adec1bb701
+run_name: Logistic Regression on Original Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091153478
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,70 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.89      0.89      1593
+           1       0.58      0.61      0.59       407
+
+    accuracy                           0.83      2000
+   macro avg       0.74      0.75      0.74      2000
+weighted avg       0.83      0.83      0.83      2000
+Model Interpretation
+
+For the Exited (Churned) class:
+
+The model correctly identifies 61 out of every 100 customers who actually leave (Recall = 61%).
+
+Out of every 100 customers the model predicts will churn, 58 are correct while 42 remain loyal (Precision = 58%).
+
+
+Business Case Simulation
+
+To illustrate the business value of this model in a FinTech context, consider the following assumptions:
+
+The model predicts 250 customers as potential churners.
+
+The average revenue per customer (Customer Lifetime Value) is $2,000.
+
+The cost of a retention voucher (offered to predicted churners) is $170.
+
+1. Mathematical Analysis
+
+True Positives (TP): 250×0.58=145 → customers correctly identified as churners.
+
+
+
+
+False Positives (FP): 250-145 =105 → customers incorrectly predicted as churners (false alarms).
+
+
+
+False Negatives (FN):
+From recall: FN+TP=145/0.61=237
+          ⇒ FN=237−145=92 → actual churners missed by the model.
+
+
+
+
+2. Business Interpretation (In Ideal Case)
+
+Without the model:
+The company would lose all 237 churners.
+→ Total loss = 237×2000=$474,000
+
+
+With the model:
+
+92 customers still churn (missed by the model).
+
+250 vouchers are sent (cost = 250×170=$42,500)
+
+→ Total cost = (92×2000)+42,500=$226,500
+
+
+Financial Savings: 474,000−226,500=$248,500
+
+
+Conclusion
+
+The model demonstrates strong business value, reducing potential churn-related losses by approximately $248,500.
+Although the precision and recall indicate room for improvement, the model already provides a positive financial 
+return and can be further optimized through better feature engineering, rebalancing techniques, and targeted marketing interventions.

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/7df24d2c4f9f466ab60f28fb85654c18/artifacts
+end_time: 1762091160577
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: 7df24d2c4f9f466ab60f28fb85654c18
+run_name: XGBoost on SMOTE Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091159742
+status: 3
+tags: []
+user_id: HP

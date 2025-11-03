@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Churn%20Prj/mlruns/513165418276124796/models/m-110e14e2eb9a44c588c1783f6940e5de/artifacts
+creation_timestamp: 1762091170240
+experiment_id: '513165418276124796'
+last_updated_timestamp: 1762091175140
+model_id: m-110e14e2eb9a44c588c1783f6940e5de
+model_type: null
+name: model_Decision_Tree
+source_run_id: ef546b889b2049e59029889b6801795d
+status: 2
+status_message: null

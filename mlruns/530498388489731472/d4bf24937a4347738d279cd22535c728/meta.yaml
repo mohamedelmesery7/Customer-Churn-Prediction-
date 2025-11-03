@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Churn%20Prj/mlruns/530498388489731472/d4bf24937a4347738d279cd22535c728/artifacts
+end_time: 1762091155705
+entry_point_name: ''
+experiment_id: '530498388489731472'
+lifecycle_stage: active
+run_id: d4bf24937a4347738d279cd22535c728
+run_name: Random Forest on Original Training Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762091153959
+status: 3
+tags: []
+user_id: HP
